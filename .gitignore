@@ -64,3 +64,6 @@ dev/
 
 # READMEs generated from README.md
 docs/
+
+#intermediate folder where the interim txt file is saved.
+.intermediate/
